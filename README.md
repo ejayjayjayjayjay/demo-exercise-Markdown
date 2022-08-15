@@ -27,3 +27,7 @@ ___
 
 <!-- Escape Character using backlash -->
 This is an example of showing text with an *asterisk* that will not be italicized,example \*asterisk*
+
+---
+<!-- Block Quote -->
+> This Going to be Displayed as a Quote with a background and a line on the left side
