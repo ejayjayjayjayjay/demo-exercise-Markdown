@@ -35,4 +35,8 @@ This is an example of showing text with an *asterisk* that will not be italicize
 <!-- Creating Links using Markdown -->
 **NOTE** The text that will go with the link should be in brackets and the links in parenthesis.
 [docker](https://www.docker.com/)
+
 **NOTE** if we want to add a title tip add a space inside the parenthesis with Quotes to display a balloon tip [docker](https://www.docker.com/ "Docker-ToolTip")
+
+<!-- Image Display -->
+![this is an Image of a cat] (https://static.pexels.com/photos/45201/kitty-cat-kitten-pet-45201.jpeg)
