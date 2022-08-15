@@ -31,3 +31,7 @@ This is an example of showing text with an *asterisk* that will not be italicize
 ---
 <!-- Block Quote -->
 > This Going to be Displayed as a Quote with a background and a line on the left side
+
+<!-- Creating Links using Markdown -->
+**NOTE** The text that will go with the link should be in brackets and the links in parenthesis.
+[docker](https://www.docker.com/)
