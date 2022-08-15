@@ -14,3 +14,7 @@ _This Paragraph is going to be Italic using underscores_
 <!-- Strong -->
 This will look bold style text **Strong**
 This will look bold style text __Strong__
+
+<!-- Horizontal Rule -->
+Using triple hyphens will be able to create horizontal rule to seperate content
+---
