@@ -21,5 +21,9 @@ This will look bold style text __Strong__
 <!-- Horizontal Rule -->
 Using triple hyphens will be able to create horizontal rule to seperate content
 ---
+
 Using Three Underscore will be able to create horizontal rule to seperate content
 ___
+
+<!-- Escape Character using backlash -->
+This is an example of showing text with an *asterisk* that will not be italicized,example \*asterisk*
